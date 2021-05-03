@@ -20,3 +20,7 @@ student, Note Taker will allow the user to organize their thoughts and keep trac
 5. Jest
 
 </br>
+
+## Deployed Application
+
+Checkout out [Note Taker](https://cliffybar.github.io/note-taker/) here!
