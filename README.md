@@ -11,6 +11,12 @@ student, Note Taker will allow the user to organize their thoughts and keep trac
 
 </br>
 
+## Installation and Usage
+
+To install, please clone the repo to your local device. Once cloned, please run ```npm install``` on your Terminal in the root directory to download any necessary dependencies. To use Note Taker on your local device, please run ```npm start``` on your Terminal and visit ```localhost:3001``` on your web browser to experience the application.
+
+</br>
+
 ## Languages Used
 
 1. HTML
